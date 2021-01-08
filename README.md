@@ -7,3 +7,5 @@ Navegacion entre nodos
 -Contar nodos
 -Navegacion horizontal
 -Expresion matematica con + - * / tomar en cuenta las prioridades
+
+Fecha 08/01/2021
